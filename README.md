@@ -1,16 +1,16 @@
-# Employee-Management-System
+# Employee_Management_System
 
-Description: This project was created to keep track of the personal and professional information of the company's workers. Its goal is to make the work of keeping track of the company's personnel easier.
+Overview: The Employee_Management_System project simplifies the management of employee data, both personal and professional, within a company. Its primary objective is to streamline the process of maintaining accurate records of personnel.
 
-## Features
-* Add New employee
-* Delete employee
-* Update employee information
-* Display detail information of employee
+## Key Functions
+* Addition of New Employees
+* Deletion of Employees
+* Updating Employee Information
+* Displaying Detailed Employee Information 
 
-## Prerequisites
+## Requirements
 
-You will need the following items to install this project on your computer:
+To install and run this project on your system, you'll need the following:
 
 * Visual Studio 2010 or above
-* SQL Server 2014 Management Studio, however the local database would work.
+* SQL Server 2014 Management Studio or a local database alternative
